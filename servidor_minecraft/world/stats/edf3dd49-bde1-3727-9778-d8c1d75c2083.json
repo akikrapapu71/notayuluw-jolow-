@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:zombie": 2,
+      "minecraft:spider": 1
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 1,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 2
+    },
+    "minecraft:used": {
+      "minecraft:netherrack": 8,
+      "minecraft:flint_and_steel": 6,
+      "minecraft:crafting_table": 2,
+      "minecraft:wooden_sword": 24,
+      "minecraft:egg": 20,
+      "minecraft:obsidian": 90
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:oak_planks": 8,
+      "minecraft:wooden_sword": 1,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 43851,
+      "minecraft:walk_one_cm": 78716,
+      "minecraft:leave_game": 18,
+      "minecraft:mob_kills": 3,
+      "minecraft:walk_under_water_one_cm": 2085,
+      "minecraft:damage_taken": 265,
+      "minecraft:damage_dealt": 661,
+      "minecraft:play_time": 50342,
+      "minecraft:jump": 183,
+      "minecraft:time_since_death": 43820,
+      "minecraft:sprint_one_cm": 37009,
+      "minecraft:open_chest": 8,
+      "minecraft:fall_one_cm": 770,
+      "minecraft:total_world_time": 50342,
+      "minecraft:fly_one_cm": 387996,
+      "minecraft:walk_on_water_one_cm": 4,
+      "minecraft:sneak_time": 305,
+      "minecraft:climb_one_cm": 400,
+      "minecraft:deaths": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 3,
+      "minecraft:leaf_litter": 13,
+      "minecraft:string": 2,
+      "minecraft:oak_log": 2,
+      "minecraft:spider_eye": 1,
+      "minecraft:rotten_flesh": 3
+    }
+  },
+  "DataVersion": 4671
+}
